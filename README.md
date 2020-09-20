@@ -1,6 +1,6 @@
 Shawn Au Code Challenge
 
-Run using the command
+Run mvn install and then 
 mvn spring-boot:run
 or
 ./mvnw spring-boot:run
